@@ -1,0 +1,6 @@
+{
+  "appId": "com.viralwolf.ai",
+  "appName": "Viral Wolf AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

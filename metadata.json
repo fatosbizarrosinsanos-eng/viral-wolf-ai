@@ -1,0 +1,8 @@
+{
+  "name": "ViralWolf AI - Mestre de Fatos Estranhos",
+  "description": "Uma plataforma agressiva de criação de canais dark para TikTok, Reels e Shorts, utilizando Gemini e Veo para scripts e vídeos cinematográficos sombrios.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
